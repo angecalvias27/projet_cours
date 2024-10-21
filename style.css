@@ -30,3 +30,11 @@ footer {
     background: #35424a;
     color: #ffffff;
 }
+
+#about {
+    background-color: rgb(252, 252, 174);
+}
+
+#contact {
+    background-color: rgb(250, 222, 188);
+}
